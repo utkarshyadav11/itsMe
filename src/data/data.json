@@ -1,0 +1,61 @@
+
+
+
+
+  [
+  {
+    "project_name": "Royale Touche",
+    "image_url": "https://i.ibb.co/mNmtQ1G/ss.png",
+    "description": "Royale Touche is a renowned plywood manufacturer, and this website serves as its online marketplace, offering sales and distribution across India. The site features multiple 3D elements that vividly showcase the factory, providing visitors with a  3d virtual tour of Royale Touche's operations. Enjoy highly interactive and engaging experiences as you explore our products and facilities.",
+    "source_link": "https://plywood.royaletouche.com/",
+    "tech_stack": [
+      "Next js",
+      "Gsap",
+      "Framer Motion",
+      "Nodemailer",
+      "Json",
+      "CSS"
+    ]
+  },
+
+  {
+    "project_name": "InteriorMaata",
+    "image_url": "https://i.ibb.co/RQfrbDM/interiormaata.png",
+    "description": "Interiormaata is a distinguished interior designer known for her minimalist and aesthetic style. This website beautifully displays her work through interactive 3D elements and modern design techniques, offering a visually stunning exploration of her unique approach.",
+    "source_link": "https://humbee-developers.github.io/InteriorMaata-/",
+    "tech_stack": [
+      "Next js",
+      "Gsap",
+      "Wordpress",
+      "Framer Motion",
+      "Nodemailer",
+      "CSS"
+    ]
+  },
+  {
+    "project_name": "Pvot",
+    "image_url": "https://i.ibb.co/FW4QQsy/ss1.png",
+    "description": "Pvot is a dynamic marketing agency based in Ahmedabad. I designed this website with a modern and advanced aesthetic, incorporating numerous interactive features and captivating animations. ",
+    "source_link": "https://humbee-developers.github.io/PVOT/",
+    "tech_stack": [
+      "Vite + React",
+      "CSS",
+      "R3F",
+      "Gsap",
+      "Framer Motion"
+    ]
+  },
+  
+  {
+    "project_name": "Hedda",
+    "image_url": "https://i.ibb.co/xJK2pLc/Screenshot-2024-04-26-125155.png",
+    "description": "I created a responsive theme using Tailwind CSS, featuring interactive elements and a well-crafted design. This theme is optimized for various devices and screen sizes, ensuring a seamless user experience. With its modern aesthetics and functional layout, it enhances both usability and visual appeal.",
+    "source_link": "",
+    "tech_stack": [
+      "Tailwind",
+      "CSS",
+      "Framer Motion",
+      "JavaScript"
+    ]
+  }
+]
