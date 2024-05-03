@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/tsMe/static/css/main.1e194a69.css",
+    "main.js": "/tsMe/static/js/main.a725c3bf.js",
+    "static/media/postman.png": "/tsMe/static/media/postman.e087d6030b1aa83511b8.png",
+    "static/media/figma.png": "/tsMe/static/media/figma.de9ddc6c2c43c542a17e.png",
+    "static/media/vscode.png": "/tsMe/static/media/vscode.9bc6e588b5f2b867a8a4.png",
+    "static/media/resume.pdf": "/tsMe/static/media/resume.00548859f20931c33081.pdf",
+    "static/media/webpack.png": "/tsMe/static/media/webpack.09a1a1112c577c279435.png",
+    "static/media/npm.png": "/tsMe/static/media/npm.0340e1c9e345c6c6648c.png",
+    "static/media/slack.png": "/tsMe/static/media/slack.ea135aee6a14fbf60e8c.png",
+    "static/media/html.png": "/tsMe/static/media/html.1d7b133e22ffe4829da6.png",
+    "static/media/skype.png": "/tsMe/static/media/skype.6d75d6c3f944b337082d.png",
+    "static/media/zoom.webp": "/tsMe/static/media/zoom.216e9d71bb558929175d.webp",
+    "static/media/meet.png": "/tsMe/static/media/meet.4c4496d98dcc42fe6b04.png",
+    "static/media/redux.png": "/tsMe/static/media/redux.5de70b7bc0d2556a0958.png",
+    "static/media/shadCn.png": "/tsMe/static/media/shadCn.d46a5c0b3a6465dbc1fa.png",
+    "static/media/react.png": "/tsMe/static/media/react.428839d4924b447d4d50.png",
+    "static/media/bootstrap.png": "/tsMe/static/media/bootstrap.dc44a420bbc9f7668242.png",
+    "static/media/sass.png": "/tsMe/static/media/sass.eae2b96dc5f29556b225.png",
+    "static/media/effect.png": "/tsMe/static/media/effect.370d93d2ebb099766694.png",
+    "static/media/gsap.svg": "/tsMe/static/media/gsap.dff87e2debbe5d37479732018b2a575a.svg",
+    "static/media/css.png": "/tsMe/static/media/css.bd165c2b95efc6e13f9b.png",
+    "static/media/Bun.png": "/tsMe/static/media/Bun.38f48a872243cc370ba9.png",
+    "static/media/cdt.png": "/tsMe/static/media/cdt.63ea0b08428a40724430.png",
+    "static/media/github.png": "/tsMe/static/media/github.a5e504bcf8709dc5c267.png",
+    "static/media/tailwind.png": "/tsMe/static/media/tailwind.39138a421122620729a5.png",
+    "static/media/javascript.png": "/tsMe/static/media/javascript.9d36595219f4b8081d71.png",
+    "static/media/next.webp": "/tsMe/static/media/next.864ec59e9c450019ca8a.webp",
+    "index.html": "/tsMe/index.html",
+    "static/media/framerMotion.svg": "/tsMe/static/media/framerMotion.cd0e8acf350dd639e9e8c999f8539a5e.svg",
+    "main.1e194a69.css.map": "/tsMe/static/css/main.1e194a69.css.map",
+    "main.a725c3bf.js.map": "/tsMe/static/js/main.a725c3bf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e194a69.css",
+    "static/js/main.a725c3bf.js"
+  ]
+}
