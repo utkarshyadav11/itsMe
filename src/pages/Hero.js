@@ -1,7 +1,7 @@
 import React from 'react';
 import './Hero.css';
 import { Link } from 'react-scroll';
-import resume from "../../src/assets/resume.pdf";
+import resume from "../../src/assets/utkarsh.pdf";
 
 const Hero = () => (
   <div className="hero" id="home">
@@ -11,7 +11,7 @@ const Hero = () => (
         <h3 className="tagline">Breaking keyboards, pushing pixels since 2022! </h3>
         <p className="paragraph">I'm a seasoned frontend web developer, adept at crafting exceptional digital experiences. Armed with a keyboard as my paintbrush and lines of code as my canvas, I breathe life into virtual dreams. Let's unite forces and transform your digital vision into reality!</p>
         <div className="hero-btns">
-        <a href={resume} download="mycv.pdf" target='_blank' class="btn">GET MY CV
+        <a href={resume} download="Utkarsh.pdf" target='_blank' class="btn">GET MY CV
           
           </a>
           <a href="#" class="btn">
