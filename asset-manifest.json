@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/itsMe/static/css/main.a3d9ee24.css",
-    "main.js": "/itsMe/static/js/main.76ea4bbe.js",
+    "main.js": "/itsMe/static/js/main.0d70e770.js",
     "static/media/postman.png": "/itsMe/static/media/postman.e087d6030b1aa83511b8.png",
     "static/media/figma.png": "/itsMe/static/media/figma.de9ddc6c2c43c542a17e.png",
     "static/media/vscode.png": "/itsMe/static/media/vscode.9bc6e588b5f2b867a8a4.png",
-    "static/media/resume.pdf": "/itsMe/static/media/resume.00548859f20931c33081.pdf",
+    "static/media/utkarsh.pdf": "/itsMe/static/media/utkarsh.45c2bf69dac848938577.pdf",
     "static/media/webpack.png": "/itsMe/static/media/webpack.09a1a1112c577c279435.png",
     "static/media/npm.png": "/itsMe/static/media/npm.0340e1c9e345c6c6648c.png",
     "static/media/slack.png": "/itsMe/static/media/slack.ea135aee6a14fbf60e8c.png",
@@ -30,10 +30,10 @@
     "index.html": "/itsMe/index.html",
     "static/media/framerMotion.svg": "/itsMe/static/media/framerMotion.cd0e8acf350dd639e9e8c999f8539a5e.svg",
     "main.a3d9ee24.css.map": "/itsMe/static/css/main.a3d9ee24.css.map",
-    "main.76ea4bbe.js.map": "/itsMe/static/js/main.76ea4bbe.js.map"
+    "main.0d70e770.js.map": "/itsMe/static/js/main.0d70e770.js.map"
   },
   "entrypoints": [
     "static/css/main.a3d9ee24.css",
-    "static/js/main.76ea4bbe.js"
+    "static/js/main.0d70e770.js"
   ]
 }
